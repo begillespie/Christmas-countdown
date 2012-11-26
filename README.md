@@ -18,8 +18,8 @@ _____
 Open in your web browser, or clone from GitHub and embed in another page.
 
 clone from GitHub:
-'''
-git clone https://github.com/begillespie/christmas-countdown
+```
+git clone https://github.com/begillespie/christmas-countdown.git
 ```
 
 Embed code:
