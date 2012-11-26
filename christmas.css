@@ -1,0 +1,20 @@
+#christmas-banner {
+  margin: 0 auto;
+  height: 200px;
+  width: 1200px;
+  background-image: url('snowflake-banner.jpg');
+    /* CC 3.0 licensed image obtained from */
+    /* http://www.webdesignhot.com/free-vector-graphics/vector-christmas-banners-with-snowflakes */
+}
+#message {
+  margin: 0;
+  line-height: 200px;
+  text-align: center;
+  color: #E9E9E9;
+  font-family: 'Mountains of Christmas', cursive; /* Google web fonts FTW! */
+  font-size: 90px;
+}
+#christmas-days {
+  color: #EC3216;
+  font-size: 130px;
+}
